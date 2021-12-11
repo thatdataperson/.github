@@ -16,11 +16,31 @@ That Data Person Limited is owned and run by [Tom Burgin](https://github.com/tgb
 ### P.S. We also love purple things. Feel free to join the madness.
 
 Our ThatDataPurple theme is available for:
-- Chrome ( [github repo](https://github.com/thatdataperson/ThatDataPurple.Chrome) | [chrome web store](https://chrome.google.com/webstore/detail/thatdatapurplechrome/eikanpoghdlfifddajgjlfahfoodipjo) )
-- Firefox ( [github repo](https://github.com/thatdataperson/ThatDataPurple.Firefox) | [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/thatdatapurple/) )
-  - And whilst you're there, we also curate an [add-on collection](https://addons.mozilla.org/en-US/firefox/collections/15300365/thatdataperson/) for Firefox
-- Visual Studio 2019 ( [github repo](https://github.com/thatdataperson/ThatDataPurple.VS2019)  |  [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ThatDataPerson.themeThatDataPurpleVS2019) )
-- Visual Studio 2022 ( [github repo](https://github.com/thatdataperson/ThatDataPurple.VS2022) | [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ThatDataPerson.themeThatDataPurpleVS2022) )
+<br />
+
+<img align="right" src="https://github.com/thatdataperson/.github/blob/main/profile/images/ThatDataPurple.preview.png">
+
+- Chrome
+  - [GitHub repo](https://github.com/thatdataperson/ThatDataPurple.Chrome)
+  - [chrome web store](https://chrome.google.com/webstore/detail/thatdatapurplechrome/eikanpoghdlfifddajgjlfahfoodipjo)
+- Firefox
+  - [GitHub repo](https://github.com/thatdataperson/ThatDataPurple.Firefox)
+  - [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/thatdatapurple/)
+- Visual Studio 2019
+  - [GitHub repo](https://github.com/thatdataperson/ThatDataPurple.VS2019)
+  - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ThatDataPerson.themeThatDataPurpleVS2019)
+- Visual Studio 2022
+  - [GitHub repo](https://github.com/thatdataperson/ThatDataPurple.VS2022)
+  - [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=ThatDataPerson.themeThatDataPurpleVS2022)
+
+<br clear="right"/>
+<br />
+
+You can also make your own theme for:
+- [Slack](https://slack.com/)
+  - Follow [these](https://slack.com/intl/en-gb/help/articles/205166337-Change-your-Slack-theme) instructions
+  - Use the following scheme: #4320cc,#593ED3,#CC2053,#fff,#593ED3,#FFFFFF,#CC2053,#593ED3
+  - Thanks to [James Harris](https://wopian.me/) for his excellent [Material Slack Themes site](https://slack.wopian.me/)
 
 ---
 
