@@ -39,7 +39,7 @@ Our ThatDataPurple theme is available for:
 You can also make your own theme for:
 - [Slack](https://slack.com/)
   - Follow [these](https://slack.com/intl/en-gb/help/articles/205166337-Change-your-Slack-theme) instructions
-  - Use the following scheme: #4320cc,#593ED3,#CC2053,#fff,#593ED3,#FFFFFF,#CC2053,#593ED3
+  - Use the following scheme: #4320cc,#593ED3,#CC2053,#FFFFFF,#593ED3,#FFFFFF,#CC2053,#593ED3
   - Thanks to [James Harris](https://wopian.me/) for his excellent [Material Slack Themes site](https://slack.wopian.me/)
 
 ---
