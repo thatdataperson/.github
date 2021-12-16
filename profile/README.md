@@ -1,4 +1,4 @@
-![That Data Person Limited](https://github.com/thatdataperson/.github/blob/main/profile/images/ThatDataPerson.png?raw=true)
+![That Data Person Limited](https://github.com/thatdataperson/.github/blob/main/profile/images/ThatDataPerson.Logo.Shadow.Purple.png?raw=true)
 <p align="center">Data Make Us Happy</p>
 
 That Data Person Limited is owned and run by [Tom Burgin](https://github.com/tgburgin).
